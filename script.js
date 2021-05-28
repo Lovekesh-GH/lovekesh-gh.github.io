@@ -17,4 +17,4 @@ document.querySelector(".scroll-btn").addEventListener("click", () => {
 
 const yourFunc = () => {
   console.log("Hello world");
-  }
+}
