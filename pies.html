@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Day wise Schedule | Calm Support</title>
+    <link rel="stylesheet" href="site.css" type="text/css" />
+  </head>
+  <body>i
+    <header>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="pies.html">Pies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <aside>
+        <img src="images/logo.png" alt="Bethany's Pie Shop" />
+      </aside>
+
+      <article>
+        <h1>Weekly Schedule</h1>
+
+        <section class="columns-desktop">
+          <div class="pie">
+            <img src="images/weekly.jpg" alt="Apple Pie" />
+            <div class="columns">
+              <div class="title">Week-1 Schedule</div>
+            </div>
+            <p class="desc">This is your monday morning reminds that you are amazing and you can handle anything.</p>
+            <button data-order="apple-pie">Schedule-1</button>
+          </div>
+
+          <div class="pie">
+            <img src="images/weekly2.jpg" alt="Apple Pie" />
+            <div class="columns">
+              <div class="title">Week-2 Schedule</div>
+            </div>
+            <p class="desc">This is your monday morning reminds that you are amazing and you can handle anything.</p>
+            <button data-order="apple-pie">Schedule-2</button>
+          </div>
+
+          <div class="pie">
+            <img src="images/weekly3.jpg" alt="Apple Pie" />
+            <div class="columns">
+              <div class="title">Week-3 Schedule</div>
+            </div>
+            <p class="desc">This is your monday morning reminds that you are amazing and you can handle anything.</p>
+            <button data-order="apple-pie">Schedule-3</button>
+          </div>
+
+          <div class="pie">
+            <img src="images/weekly4.jpg" alt="Apple Pie" />
+            <div class="columns">
+              <div class="title">Week-4 Schedule</div>
+            </div>
+            <p class="desc">This is your monday morning reminds that you are amazing and you can handle anything.</p>
+            <button data-order="apple-pie">Schedule-4</button>
+          </div>
+
+        </section>
+      </article>
+    </main>
+
+    <footer>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="pies.html">Pies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+  <script>
+    window.addEventListener("DOMContentLoaded", function(e) {
+      const orderButtons = document.querySelectorAll("button[data-order]");
+
+      orderButtons.forEach(function(button) {
+        
+        button.addEventListener("click", function(e) {
+          const button = e.currentTarget;
+          const container = button.parentNode;
+
+          const order = {
+            id: (id = button.getAttribute("data-order")),
+            title: container.querySelector(".title").innerText,
+            desc: container.querySelector(".desc").innerText
+          };
+
+          localStorage.setItem("Schedule", JSON.stringify(order));
+
+          const url = window.location.href.replace("pies.html", "Schedule.html");
+          window.location.href = url;
+        });
+      });
+    });
+  </script>
+</html>
