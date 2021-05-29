@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-  
+    <link rel="stylesheet" type="text/css" href="test.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <body>
     <h1>TIME </h1>
     <table border="5" cellspacing="0" align="center">
@@ -47,14 +48,14 @@
             <td align="center" height="60">
                 <b>Monday</b></td>
             <td align="center" height="50">Eng</td>
-            <td align="center" height="50"><button onclick="yourFunc()">Mat</button></td>
+            <td align="center" height="50"><button id="change" onclick="myfunction(1)" class="btn btn-success">Yoga</button></td>
             <td align="center" height="50">Che</td>
             <td rowspan="6" align="center" height="60">
                 <h2>L<br>U<br>N<br>C<br>H</h2>
             </td>
             <td colspan="3" align="center" 
                 height="50">LAB</td>
-            <td align="center" height="50">Phy</td>
+            <td align="center" height="50"><button id="change" onclick="myfunction(1)" class="btn btn-success">Football</button></td>
         </tr>
         <tr>
             <td align="center" height="50">
@@ -118,10 +119,24 @@
         </tr>
     </table>
     <script>
-    const yourFunc = () => {
-        console.log("Hello world");
-        }
-        </script>
+		var count = 0;
+function myfunction(x) {
+	var x;
+	
+    	if(x == 1){
+    		count = count+1;
+    		console.log(count)
+    	}
+
+    	if(count == 1){
+    		document.getElementById("change").style.background = 'red';
+    	}
+    	
+  
+}
+
+</script>
+<!--<script type="text/javascript" src="test.js"></script>-->
 </body>
   
 </html>
