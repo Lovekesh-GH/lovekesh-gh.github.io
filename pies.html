@@ -7,7 +7,7 @@
     <title>Day wise Schedule | Calm Support</title>
     <link rel="stylesheet" href="site.css" type="text/css" />
   </head>
-  <body>i
+  <body>
     <header>
       <nav>
         <ul>
@@ -17,7 +17,7 @@
         </ul>
       </nav>
     </header>
-    <main>
+    <main>  
       <aside>
         <img src="images/logo.png" alt="Bethany's Pie Shop" />
       </aside>
@@ -43,18 +43,21 @@
               <div class="title">Week-2 Schedule</div>
             </div>
             <p class="desc">MIDDLE path is the toughest because you don’t see instant results, but remember working now will separate you from the rest.</p>
-            <button data-order="apple-pie">Schedule-2</button>
+            <button data-order2="apple-pie">Schedule-2</button>
           </div>
 
           <div class="pie">
             <img src="images/weekly3.jpg" alt="Apple Pie" />
             <div class="columns">
-              <div class="title">Week-3 Schedule</div>
+              <div class="title3">Week-3 Schedule</div>
             </div>
-            <p class="desc">Do u know the secret of achieving goals?
+            <p class="desc3">Do u know the secret of achieving goals?
               IT’S called being CONSISTENT
               </p>
-            <button data-order="apple-pie">Schedule-3</button>
+      
+                <button data-order3="apple-pie">Schedule-3</button>
+              </div>
+            
           </div>
 
           <div class="pie">
@@ -65,7 +68,7 @@
             <p class="desc">Nice, you have come this far.
               U didn’t come this far to only come this far, I suppose?
               </p>
-            <button data-order="apple-pie">Schedule-4</button>
+            <button data-order4="apple-pie">Schedule-4</button>
           </div>
 
         </section>
@@ -101,6 +104,78 @@
           localStorage.setItem("Schedule", JSON.stringify(order));
 
           const url = window.location.href.replace("pies.html", "schedule.html");
+          window.location.href = url;
+        });
+      });
+    });
+  </script>
+  <script>
+    window.addEventListener("DOMContentLoaded", function(e) {
+      const orderButtons = document.querySelectorAll("button[data-order2]");
+
+      orderButtons.forEach(function(button) {
+        
+        button.addEventListener("click", function(e) {
+          const button = e.currentTarget;
+          const container = button.parentNode;
+
+          const order = {
+            id: (id = button.getAttribute("data-order2")),
+            title: container.querySelector(".title").innerText,
+            desc: container.querySelector(".desc").innerText
+          };
+
+          localStorage.setItem("Schedule", JSON.stringify(order));
+
+          const url = window.location.href.replace("pies.html", "schedule2.html");
+          window.location.href = url;
+        });
+      });
+    });
+  </script>
+  <script>
+    window.addEventListener("DOMContentLoaded", function(e) {
+      const orderButtons = document.querySelectorAll("button[data-order3]");
+
+      orderButtons.forEach(function(button) {
+        
+        button.addEventListener("click", function(e) {
+          const button = e.currentTarget;
+          const container = button.parentNode;
+
+          const order = {
+            id: (id = button.getAttribute("data-order3")),
+            title: container.querySelector(".title").innerText,
+            desc3: container.querySelector(".desc3").innerText
+          };
+
+          localStorage.setItem("Schedule", JSON.stringify(order));
+
+          const url = window.location.href.replace("pies.html", "schedule3.html");
+          window.location.href = url;
+        });
+      });
+    });
+  </script>
+  <script>
+    window.addEventListener("DOMContentLoaded", function(e) {
+      const orderButtons = document.querySelectorAll("button[data-order4]");
+
+      orderButtons.forEach(function(button) {
+        
+        button.addEventListener("click", function(e) {
+          const button = e.currentTarget;
+          const container = button.parentNode;
+
+          const order = {
+            id: (id = button.getAttribute("data-order4")),
+            title: container.querySelector(".title").innerText,
+            desc: container.querySelector(".desc").innerText
+          };
+
+          localStorage.setItem("Schedule", JSON.stringify(order));
+
+          const url = window.location.href.replace("pies.html", "schedule4.html");
           window.location.href = url;
         });
       });
