@@ -1,23 +1,41 @@
-# **Hackthecrisi**
+# **Hackthecrisi** 
 
-## PROJECT - "Happy Tails"
+## <ins>PROJECT</ins> - _"Happy Tails"_
 
-## THEME - "HEALTH TECH"
+## <ins>THEME</ins> - `"HEALTH TECH"`
 
-## TECHNOLOGY STACK - Html,CSS,Javascript,PWA, AI(IBM Watson)
+## <ins>TECHNOLOGY STACK</ins> - ```Html,CSS,Javascript,PWA, AI(IBM Watson,Tone Analyzer)```
 
-## Challenges we ran into
+## **Challenges we ran into**
 To integrate maximun number of possible questions in chat bot, with all the possibilites a normal human could ask.To add in two pages on app so as for user comfort.
 
 
-### About project
-" Mental health needs is more sunlight, more candor, and more unashamed conversation.” – Glenn Close
+### **About project**
+>" Mental health needs is more sunlight, more candor, and more unashamed conversation.” – Glenn Close
 In busy 21st century there has been deterioration in mental health of youngsters. 
 Mental illness symptoms must be identified as early as possible as untreated symptoms continue and worsen over time.
 Globally, over a million people commit suicide every year. Approximately 2% of all worldwide deaths are suicides. In India ratio is threatening. Since, mental illness is not only a personal problem. It has influence on the person’s family, friends, job etc.
 
 Our project is initiative to raise awareness about mental health and to lend a helping hand towards those who are going through rough time. The basic idea is to develop a space(platform) where one can talk openly about problems he/she is facing without revealing his/her identity. Moreover, we approach to help them in long terms by using a app to reschedule their life, so that they steady overcome this stage of life.
+
+----
+
+Click on the 
+[Link](https://lovekesh-gh.github.io/)
+to go to the website.
+
+----
+
+**Description of the Project**
+
+``Our Project is a combination of Chatbot and Website.``
+<details>
+           <summary>Website</summary>
+           <p></p>
+         </details>
+         <ins>Our Website has four main components</ins>
+
+1)`Home`:
+
 ![Home page](./images/1.jpg)
 
-
-[Visit Website](https://lovekesh-gh.github.io/)
