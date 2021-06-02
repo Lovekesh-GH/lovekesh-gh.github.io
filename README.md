@@ -1,4 +1,4 @@
-# Cicada
+# ** Hackthecrisis **
 
 ## PROJECT - "Happy Tails"
 
@@ -17,3 +17,15 @@ Mental illness symptoms must be identified as early as possible as untreated sym
 Globally, over a million people commit suicide every year. Approximately 2% of all worldwide deaths are suicides. In India ratio is threatening. Since, mental illness is not only a personal problem. It has influence on the person’s family, friends, job etc.
 
 Our project is initiative to raise awareness about mental health and to lend a helping hand towards those who are going through rough time. The basic idea is to develop a space(platform) where one can talk openly about problems he/she is facing without revealing his/her identity. Moreover, we approach to help them in long terms by using a app to reschedule their life, so that they steady overcome this stage of life.
+![Home page](1.jpg)
+![Home page](2.jpg)
+![Home page](3.jpg)
+![Home page](4.jpg)
+![Home page](5.jpg)
+![Home page](6.jpg)
+![Home page](7.jpg)
+![Home page](8.jpg)
+![Home page](9.jpg)
+![Home page](10.jpg)
+
+[title](https://lovekesh-gh.github.io/)
