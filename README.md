@@ -1,6 +1,6 @@
 # Cicada
 
-## PROJECT - "Calm support"
+## PROJECT - "Happy Tails"
 
 ## THEME - "HEALTH TECH"
 
