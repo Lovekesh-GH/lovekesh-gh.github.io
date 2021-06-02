@@ -100,20 +100,31 @@
   
   .pie img {
     width: 100%;
+    height:30%;
   }
   
   .pie .title {
     font-weight: bold;
   }
+  .pie .title3 {
+    font-weight: bold;
+  
+  }
   
   .pie .columns {
-    width: 100%;
+    width: 50%;
+    height:15%;
+  
+  }
+  .pie desc3
+   {
+    height:auto;
   }
   
   .pie .columns div {
-    width: 50%;
+    width: 90%;
   }
-  
+
   .pie button {
     background-color: #f6aeae;
     padding: 10px;
@@ -121,4 +132,8 @@
     border-radius: 3px;
     color: #fff;
   }
+  .pie button:hover{
+    background: rgb(51, 85, 136); 
+   }
+
   
