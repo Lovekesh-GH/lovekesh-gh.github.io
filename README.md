@@ -20,7 +20,9 @@ Globally, over a million people commit suicide every year. Approximately 2% of a
 
 >>Our project is initiative to raise awareness about mental health and to lend a helping hand towards those who are going through rough time. The basic idea is to develop a space(platform) where one can talk openly about problems he/she is facing without revealing his/her identity. Moreover, we approach to help them in long terms by using a app to reschedule their life, so that they steady overcome this stage of life.
 </span>
+
 ----
+
 <span style="font-family: times, serif; font-size:11pt; font-style:italic">Click on the 
 [Link](https://lovekesh-gh.github.io/)
 to Visit the Website.</span>
@@ -69,8 +71,8 @@ When you will click on **Discovery Now** you will be directed to our _monthly_ s
 
 ![Home page](./images/10.jpg)
 
-- [ ] ***Complete Task*** - Green Colour
-- [x] ***Incomplete Task***-Red Colour
+- [x] ***Complete Task*** - Green Colour
+- [ ] ***Incomplete Task***-Red Colour
 
 ----
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">2) About Us:</span>
@@ -97,6 +99,8 @@ Scrolling homepage further will give a brief description **about** our team. Our
 ![Home page](./images/7.jpg)
 
 After counselling session a hand to heart interaction, bot will suggest best for you. _This will be done by analysing the range of depression one is going through with the help of Tone Analyzer i.e being integrated with IBM watson assistant._ Treatment will be further directed after the response from user. 
+
+----
 
 
 
