@@ -82,7 +82,7 @@ Scrolling homepage further will give a brief description **about** our team. Our
 
 ----
 
-><span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">3) Team:</span>Scrolling a bit further you will finally reach virtually to us and we are glad for that. A brief description about our team along with our profile has been mentioned. 
+><span style="color:gold; font-family: Babas; font-size: 1.2em;">3) Team:</span>Scrolling a bit further you will finally reach virtually to us and we are glad for that. A brief description about our team along with our profile has been mentioned. 
 
 ![Home page](./images/4.jpg)
 
