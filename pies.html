@@ -129,6 +129,7 @@
       });
     });
   </script>
+  
   <script>
     window.addEventListener("DOMContentLoaded", function(e) {
       const orderButtons = document.querySelectorAll("button[data-order3]");
@@ -142,7 +143,7 @@
           const order = {
             id: (id = button.getAttribute("data-order3")),
             title: container.querySelector(".title").innerText,
-            desc3: container.querySelector(".desc3").innerText
+            desc: container.querySelector(".desc").innerText
           };
 
           localStorage.setItem("Schedule", JSON.stringify(order));
@@ -153,6 +154,7 @@
       });
     });
   </script>
+  
   <script>
     window.addEventListener("DOMContentLoaded", function(e) {
       const orderButtons = document.querySelectorAll("button[data-order4]");
