@@ -759,8 +759,9 @@ html {
 
 .scroll-btn {
   position: fixed;
-  right: 5rem;
-  bottom: 5rem;
+  padding: 10px 20px;
+  right: 3rem;
+  bottom: 10rem;
   width: 4.5rem;
   height: 4.5rem;
   background-color: #e2b646;

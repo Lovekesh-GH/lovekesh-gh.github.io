@@ -68,6 +68,19 @@
               </p>
             <button data-order4="apple-pie">Schedule-4</button>
           </div>
+          <div class="pie">
+            <link rel="stylesheet" href="life.css" type="text/css" />
+            <img src="images/weekly3.jpg" alt="Apple Pie" />
+            <div class="columns">
+              <div class="title">LOOK AT ME </div>
+            </div>
+            <p class="desc">LIFE IS BEAUTIFUL MY FRIEND U SHALL ENJOY IT
+              </p>
+      
+                <button data-order="apple-pie">LIFE</button>
+              </div>
+            
+          </div>
 
         </section>
       </article>
@@ -179,4 +192,27 @@
       });
     });
   </script>
+   window.addEventListener("DOMContentLoaded", function(e) {
+    const orderButtons = document.querySelectorAll("button[data-order]");
+
+    orderButtons.forEach(function(button) {
+      
+      button.addEventListener("click", function(e) {
+        const button = e.currentTarget;
+        const container = button.parentNode;
+
+        const order = {
+          id: (id = button.getAttribute("data-order4")),
+          title: container.querySelector(".title").innerText,
+          desc: container.querySelector(".desc").innerText
+        };
+
+        localStorage.setItem("Schedule", JSON.stringify(order));
+
+        const url = window.location.href.replace("pies.html", "life.html");
+        window.location.href = url;
+      });
+    });
+  });
+</script>
 </html>
