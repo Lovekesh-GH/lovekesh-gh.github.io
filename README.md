@@ -5,7 +5,7 @@
 ## <ins>Problem Statement</ins> - <span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">"Administering care to those who are at immediate risk."
 </span>
 
-## <ins>TECHNOLOGY STACK</ins> -<span style="font-family: 'Arial, Helvetica, sans-serif';">  ```Html,CSS,Javascript,PWA, AI(IBM Watson,Tone Analyzer)```</span>
+## <ins>TECHNOLOGY STACK</ins> -<span style="font-family: 'Arial, Helvetica, sans-serif';">  ```Html,CSS,Javascript,PWA, AI(IBM Watson,Tone Analyzer,Watson Discovery)```</span>
 
 ## **Challenges we ran into**
 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1.2em;">To integrate maximun number of possible questions in chat bot, with all the possibilites a normal human could ask .To integrate Tone analyzer with Watson Assistant was the most challenging task.
@@ -13,12 +13,11 @@
 
 
 ### **About project**
->" Mental health needs is more sunlight, more candor, and more unashamed conversation.” – Glenn Close
-In busy 21st century there has been deterioration in mental health of youngsters. 
+>The suicidal well of depression has swallowed many, and this well is growing deeper and wider with time. Studies have shown that youngsters are more prone to fall in this trap, so being need of the hour it is vital to work upon this issue.Keeping an eye on these issues , project _"Happy tails"_ is a proposal by our team a **Tech Tycoons** to heal people suffering from anxiety and lend a helping hand to people suffering from depression. 
 Mental illness symptoms must be identified as early as possible as untreated symptoms continue and worsen over time.
-Globally, over a million people commit suicide every year. Approximately 2% of all worldwide deaths are suicides. In India ratio is threatening. Since, mental illness is not only a personal problem. It has influence on the person’s family, friends, job etc.
+Globally, over a million people commit suicide every year. Approximately 2% of all worldwide deaths and suicides are because of _depression_. In India ratio is even threatening.
 
->>Our project is initiative to raise awareness about mental health and to lend a helping hand towards those who are going through rough time. The basic idea is to develop a space(platform) where one can talk openly about problems he/she is facing without revealing his/her identity. Moreover, we approach to help them in long terms by using a app to reschedule their life, so that they steady overcome this stage of life.
+>>Our project is an initiative to raise awareness about mental health and lend a helping hand towards those who are going through rough time. The basic idea is to develop a space(platform) where one can talk openly about problems he/she is facing without revealing his/her identity. Moreover, we approach to help them in long terms by using our website to reschedule their life, so that they steady overcome this stage of life.
 </span>
 
 ----
@@ -91,6 +90,8 @@ Scrolling homepage further will give a brief description **about** our team. Our
 ><span style="color:gold; font-family: Babas; font-size: 1.5em;">4) **Contact**:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us personally and we ensure you to provide with best solution. 
 
 ![Home page](./images/5.jpg)
+
+![Home page](./images/11.jpg)
 
 ----
 
