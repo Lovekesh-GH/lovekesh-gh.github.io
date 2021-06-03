@@ -48,7 +48,7 @@ _``Our Project is a combination of Chatbot and Website.``_
 
 ![Home page](./images/2.jpg)
 
-><span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">1) Home:</span>Homepage of website has been designed keeping in mind that the person might be low at the moment, so to cheer him up a soft theme is presented. It is easy enough for beginner to get started with homepage. 
+><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) **Home**:</span>Homepage of website has been designed keeping in mind that the person might be low at the moment, so to cheer him up a soft theme is presented. It is easy enough for beginner to get started with homepage. 
 
 ![Home page](./images/1.jpg)
 
@@ -75,20 +75,20 @@ When you will click on **Discovery Now** you will be directed to our _monthly_ s
 - [ ] ***Incomplete Task***-Red Colour
 
 ----
-><span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">2) About Us:</span>
+><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) **About Us**:</span>
 Scrolling homepage further will give a brief description **about** our team. Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage. 
 
 ![Home page](./images/3.jpg)
 
 ----
 
-><span style="color:gold; font-family: Babas; font-size: 1.2em;">3) Team:</span>Scrolling a bit further you will finally reach virtually to us and we are glad for that. A brief description about our team along with our profile has been mentioned. 
+><span style="color:gold; font-family: Babas; font-size: 1.5em;">3) **Team**:</span>Scrolling a bit further you will finally reach virtually to us and we are glad for that. A brief description about our team along with our profile has been mentioned. 
 
 ![Home page](./images/4.jpg)
 
 ----
 
-><span style="color:gold; font-family: Babas; font-size: 1.2em;">4) Contact:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us personally and we ensure you to provide with best solution. 
+><span style="color:gold; font-family: Babas; font-size: 1.5em;">4) **Contact**:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us personally and we ensure you to provide with best solution. 
 
 ![Home page](./images/5.jpg)
 
