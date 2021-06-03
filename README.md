@@ -88,7 +88,7 @@ Scrolling homepage further will give a brief description **about** our team. Our
 
 ----
 
-><span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">4) Contact:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us personally and we ensure you to provide with best solution. 
+><span style="color:gold; font-family: Babas; font-size: 1.2em;">4) Contact:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us personally and we ensure you to provide with best solution. 
 
 ![Home page](./images/5.jpg)
 
