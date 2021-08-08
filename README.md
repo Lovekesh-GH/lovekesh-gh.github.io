@@ -1,18 +1,21 @@
-# <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 2em;">**Hackthecrisis** </span>
+# <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 2em;">**Happy Tails** </span>
 
-## <ins>PROJECT</ins> - ***"Happy Tails"***
 
-## <ins>Problem Statement</ins> - <span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">"Administering care to those who are at immediate risk."
+
+🛠 &nbsp;<span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">Tech Stack
+
+</span> 
+
+<span style="font-family: 'Arial, Helvetica, sans-serif';"> ```Html,CSS,Javascript,PWA, AI(IBM Watson,Tone Analyzer,Watson Discovery)```</span>
+
+##  💼 &nbsp; <span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">**Challenges we ran into**
 </span>
-
-## <ins>TECHNOLOGY STACK</ins> -<span style="font-family: 'Arial, Helvetica, sans-serif';">  ```Html,CSS,Javascript,PWA, AI(IBM Watson,Tone Analyzer,Watson Discovery)```</span>
-
-## **Challenges we ran into**
 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1.2em;">To integrate maximun number of possible questions in chat bot, with all the possibilites a normal human could ask .To integrate Tone analyzer with Watson Assistant was the most challenging task.
 </span>
 
+## 🔭 &nbsp; <span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">About this Project
+</span>
 
-### **About project**
 >The suicidal well of depression has swallowed many, and this well is growing deeper and wider with time. Studies have shown that youngsters are more prone to fall in this trap, so being need of the hour it is vital to work upon this issue.Keeping an eye on these issues , project _"Happy tails"_ is a proposal by our team a **Tech Tycoons** to heal people suffering from anxiety and lend a helping hand to people suffering from depression. 
 Mental illness symptoms must be identified as early as possible as untreated symptoms continue and worsen over time.
 Globally, over a million people commit suicide every year. Approximately 2% of all worldwide deaths and suicides are because of _depression_. In India ratio is even threatening.
@@ -22,7 +25,7 @@ Globally, over a million people commit suicide every year. Approximately 2% of a
 
 ----
 
-<span style="font-family: times, serif; font-size:11pt; font-style:italic">Click on the 
+<span style="font-family: times, serif; font-size:17pt; font-style:italic">Click on the 
 [Link](https://lovekesh-gh.github.io/)
 to Visit the Website.</span>
 
@@ -110,6 +113,25 @@ to check the demo of the Chatbot</span>
 After counselling session a hand to heart interaction, bot will suggest best for you. _This will be done by analysing the range of depression one is going through with the help of Tone Analyzer i.e being integrated with IBM watson assistant._ Treatment will be further directed after the response from user. 
 
 ----
+
+<!-- CONTRIBUTING -->
+
+## <span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;">Contributing
+</span>
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+----
+<!-- LICENSE -->
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 
 
 
