@@ -44,7 +44,7 @@ _``Our Project is a combination of Chatbot and Website.``_
 
 ![Home page](./images/6.jpg)
 
->The best way to cure depression, Melancholy, anxiety is to uplift the confidence and make their life colourful again. Based on this design principle our team has designed a dynamic webpage for people who need help in this rough patch of their life. 
+>The best way to cure depression, Melancholy, anxiety is to uplift the confidence and make their life colourful again. Based on this design principle our team has designed a dynamic webpage for people who need help in this rough patch of their life. Not only will this website help them to cure their illness in a steady way but also help them to bring their life on track by fixing their schedule.
 
 >>After clicking on up right corner a list of tiles including home, about us, team, contact will slide to bottom. User can easily click on any one of these and will be redirected further. Along with this social media handles of our team has been provide for further support. 
 
