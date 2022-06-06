@@ -31,7 +31,7 @@ to Visit the Website.</span>
 
 ----
 
-***Description of the Project***
+**Description of the Project**
 
 _``Our Project is a combination of Chatbot and Website.``_
 <details>
